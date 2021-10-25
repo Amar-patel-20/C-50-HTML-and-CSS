@@ -1,0 +1,35 @@
+
+ h2{
+    color: royalblue;
+    text-align: center;
+} 
+.section1{
+  border:solid;
+  border-width: 1px;
+  display:flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.section2{
+  border:solid;
+  border-width: 3px;
+  border-color: blue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.section3{
+    border:solid;
+    border-width: 3px;
+    border-color:yellowgreen;
+
+}
+.section4{
+    border:solid;
+    border-width: 3px;
+    border-color: blue;
+    display: flex;
+    text-align: left;
+    justify-content: flex-end;
+    
+}
